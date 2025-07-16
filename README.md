@@ -144,4 +144,4 @@ datasets/
 
 ## License
 
-This project is for academic and competition purposes. Please cite appropriately if you use or adapt any part of this work.
+This project is for academic and competition purposes. Please cite appropriately if you use or adapt any part of this work. The project itself imported from Suika's team kaggle cloud notebook.
